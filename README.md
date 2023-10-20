@@ -1,2 +1,2 @@
 # git-session
-Intermediate Git Session for 1st Year Students.
+Intermediate Git Session for 1st Year 

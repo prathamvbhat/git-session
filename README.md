@@ -1,2 +1,2 @@
-# git-session
-Intermediate Git Session for 1st Year Students.
+github
+what is meant will happen
